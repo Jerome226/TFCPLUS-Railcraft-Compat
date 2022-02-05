@@ -2,9 +2,9 @@ package com.vidaj.tfcrailcraft.items;
 
 import java.util.List;
 
-import com.bioxx.tfc.Items.ItemTerra;
-import com.bioxx.tfc.api.Enums.EnumSize;
-import com.bioxx.tfc.api.Enums.EnumWeight;
+import com.dunk.tfc.Items.ItemTerra;
+import com.dunk.tfc.api.Enums.EnumSize;
+import com.dunk.tfc.api.Enums.EnumWeight;
 import com.vidaj.tfcrailcraft.Constants;
 import com.vidaj.tfcrailcraft.entities.EntityWoodenMinecartChest;
 

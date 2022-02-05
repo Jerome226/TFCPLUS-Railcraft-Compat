@@ -5,8 +5,8 @@ import mods.railcraft.common.items.RailcraftItem;
 import net.minecraft.item.ItemStack;
 import net.minecraftforge.oredict.OreDictionary;
 
-import com.bioxx.tfc.api.TFCBlocks;
-import com.bioxx.tfc.api.TFCItems;
+import com.dunk.tfc.api.TFCBlocks;
+import com.dunk.tfc.api.TFCItems;
 import com.vidaj.tfcrailcraft.recipes.RecipeManager;
 
 public class CommonProxy {

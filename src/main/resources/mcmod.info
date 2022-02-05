@@ -2,10 +2,10 @@
 [
 {
   "modid": "tfcrailcraft",
-  "name": "TFC Railcraft Compatibility",
-  "description": "Fixes recipes and makes Railcraft usable with TFC",
-  "version": "${version}",
-  "mcversion": "${mcversion}",
+  "name": "TFC+ Railcraft Compatibility",
+  "description": "Fixes recipes and makes Railcraft usable with TFC+",
+  "version": "0.3.0",
+  "mcversion": "1.7.10",
   "url": "",
   "updateUrl": "",
   "authorList": ["vidaj", "kev12east"],

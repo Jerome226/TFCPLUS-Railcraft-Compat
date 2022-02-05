@@ -6,5 +6,5 @@ public class Constants {
 	
 	public static final String Version = "0.2.0";
 	
-	public static final String Dependencies = "required-after:terrafirmacraft;required-after:Railcraft";
+	public static final String Dependencies = "required-after:terrafirmacraftplus;required-after:Railcraft";
 }
